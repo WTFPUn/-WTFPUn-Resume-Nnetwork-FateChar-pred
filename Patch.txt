@@ -1,0 +1,12 @@
+Patch
+
+1.0	--complete Neural Network to classify Saber,Rin and Sakura
+	-- acc~70%
+___________________________________________________________________________________________________________________________
+1.1	--add 180 picture for train and 10 picture for test 
+	--change model to CNN(Convolutional Neural Network) 
+	-- acc~97.4%(Ready to use!)
+___________________________________________________________________________________________________________________________
+
+By : Punnawat Namwongsa
+School : Debsirin 
